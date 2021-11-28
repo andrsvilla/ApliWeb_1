@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0px;
 }
 h1 {
@@ -6,4 +6,9 @@ h1 {
 }
 h2 {
   font: bold 14px verdana, sans-serif;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption, 
+hgroup { 
+  display: block; 
 }
