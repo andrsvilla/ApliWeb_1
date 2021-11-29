@@ -22,11 +22,14 @@
   -moz-transform: scale(1, 1.2);
   -webkit-transform: scale(1, 1.2);
   
-  -moz-transform: rotate(10deg); 
-  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(15deg); 
+  -webkit-transform: rotate(15deg);
   
   -moz-transform: skew(20deg);
   -webkit-transform: skew(20deg);
+  
+  -moz-transform: translate(100px); 
+  -webkit-transform: translate(100px);
 }
 
 #span-title {
