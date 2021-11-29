@@ -30,6 +30,9 @@
   
   -moz-transform: translate(100px); 
   -webkit-transform: translate(100px);
+  
+  -moz-transform: translateY(100px) rotate(45deg) scaleX(0.3); 
+  -webkit-transform: translateY(100px) rotate(45deg) scaleX(0.3);
 }
 
 #span-title {
