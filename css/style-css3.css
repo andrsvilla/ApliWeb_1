@@ -18,6 +18,9 @@
   background: -moz-linear-gradient(30deg, #FFFFFF, #006699);
   
   background: -webkit-radial-gradient(center, ellipse, #FFFFFF 0%, #006699 200%);
+  
+  -moz-transform: scale(2);
+  -webkit-transform: scale(2);
 }
 
 #span-title {
