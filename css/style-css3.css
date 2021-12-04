@@ -31,8 +31,8 @@
   -moz-transform: translate(100px); 
   -webkit-transform: translate(100px);
   
-  -moz-transform: translateY(100px) rotate(45deg) scaleX(0.3); 
-  -webkit-transform: translateY(100px) rotate(45deg) scaleX(0.3);
+  -moz-transform: translateY(100px) rotate(20deg) scaleX(0.4); 
+  -webkit-transform: translateY(100px) rotate(20deg) scaleX(0.4);
   
   -moz-transition: -moz-transform 1s ease-in-out 0.5s;
   -webkit-transition: -webkit-transform 1s ease-in-out 0.5s;
@@ -47,4 +47,11 @@
 #header-title:hover{
   -moz-transform: rotate(5deg); 
   -webkit-transform: rotate(5deg);
+}
+
+#text-px {
+  font-size: 14px;
+}
+#text-em {
+  font-size: 1.5em;
 }
