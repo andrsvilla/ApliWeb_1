@@ -55,3 +55,23 @@
 #text-em {
   font-size: 1.5em;
 }
+
+#google-fonts {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5em;
+  font-style: normal;
+}
+#adobe-fonts {
+  font-family: patriot, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+#everything-fonts {
+  font-family: 'BeyondWonderland';
+  font-size: 1.5em;
+  color: #333;
+}
+#all-font {
+  font-family: 'Lobster', arial;
+  font-size: 1.3em;
+}
